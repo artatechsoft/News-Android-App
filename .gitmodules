@@ -1,15 +1,18 @@
 [submodule "Changeloglib"]
 	path = Changeloglib
-	url = https://github.com/David-Development/changeloglib.git
+	url = https://github.com/artatechsoft/changeloglib.git
 [submodule "MessageBar"]
 	path = MessageBar
-	url = https://github.com/David-Development/MessageBar.git
+	url = https://github.com/artatechsoft/MessageBar.git
 [submodule "ownCloud-Account-Importer"]
 	path = ownCloud-Account-Importer
-	url = https://github.com/David-Development/ownCloud-Account-Importer.git
+	url = https://github.com/artatechsoft/ownCloud-Account-Importer.git
 [submodule "ShowcaseView"]
 	path = ShowcaseView
-	url = https://github.com/amlcurran/ShowcaseView.git
+	url = https://github.com/artatechsoft/ShowcaseView.git
 [submodule "android-HoloCircularProgressBar"]
 	path = android-HoloCircularProgressBar
 	url = https://github.com/passsy/android-HoloCircularProgressBar.git
+[submodule "AndroidSlidingUpPanel"]
+	path = AndroidSlidingUpPanel
+	url = https://github.com/umano/AndroidSlidingUpPanel.git
